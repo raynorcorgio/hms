@@ -6,12 +6,6 @@ services:
     ports:
       - '5432:5432'
     environment:
-<<<<<<< HEAD
-     - POSTGRES_PASSWORD=password
-     - POSTGRES_USER=user
-     - POSTGRES_DB=ami
-=======
       - POSTGRES_PASSWORD=password
       - POSTGRES_USER=user
       - POSTGRES_DB=ami
->>>>>>> 8e128f0279c524d9a63c17494b2916bf042fb434
