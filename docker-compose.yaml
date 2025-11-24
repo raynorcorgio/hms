@@ -8,4 +8,4 @@ services:
     environment:
      - POSTGRES_PASSWORD=password
      - POSTGRES_USER=user
-     - POSTGRES-DB=ami
+     - POSTGRES_DB=ami
